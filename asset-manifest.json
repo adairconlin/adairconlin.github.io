@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/adairconlin/my-react-portfolio/static/css/main.89d07740.css",
-    "main.js": "/adairconlin/my-react-portfolio/static/js/main.5d5b77f4.js",
-    "static/js/787.56d9acf9.chunk.js": "/adairconlin/my-react-portfolio/static/js/787.56d9acf9.chunk.js",
-    "static/media/food-mood.png": "/adairconlin/my-react-portfolio/static/media/food-mood.d83f9fd86dc5fb1a6ea3.png",
-    "static/media/weather-dash.png": "/adairconlin/my-react-portfolio/static/media/weather-dash.76b237623f274db2ae2e.png",
-    "static/media/rate-my-bootcamp.png": "/adairconlin/my-react-portfolio/static/media/rate-my-bootcamp.7d7a75bb9830c549dece.png",
-    "static/media/profile.png": "/adairconlin/my-react-portfolio/static/media/profile.a9ff8c7f87dc66e9725b.png",
-    "static/media/tech-blog.png": "/adairconlin/my-react-portfolio/static/media/tech-blog.acc39fe88bd587e4f8ed.png",
-    "static/media/e-commerce.png": "/adairconlin/my-react-portfolio/static/media/e-commerce.fde393b393a271ee18a1.png",
-    "static/media/team-gen.png": "/adairconlin/my-react-portfolio/static/media/team-gen.9e5f6e04b6fec80a330a.png",
-    "index.html": "/adairconlin/my-react-portfolio/index.html",
-    "main.89d07740.css.map": "/adairconlin/my-react-portfolio/static/css/main.89d07740.css.map",
-    "main.5d5b77f4.js.map": "/adairconlin/my-react-portfolio/static/js/main.5d5b77f4.js.map",
-    "787.56d9acf9.chunk.js.map": "/adairconlin/my-react-portfolio/static/js/787.56d9acf9.chunk.js.map"
+    "main.css": "/my-react-portfolio/static/css/main.89d07740.css",
+    "main.js": "/my-react-portfolio/static/js/main.28b259e4.js",
+    "static/js/787.56d9acf9.chunk.js": "/my-react-portfolio/static/js/787.56d9acf9.chunk.js",
+    "static/media/food-mood.png": "/my-react-portfolio/static/media/food-mood.d83f9fd86dc5fb1a6ea3.png",
+    "static/media/weather-dash.png": "/my-react-portfolio/static/media/weather-dash.76b237623f274db2ae2e.png",
+    "static/media/rate-my-bootcamp.png": "/my-react-portfolio/static/media/rate-my-bootcamp.7d7a75bb9830c549dece.png",
+    "static/media/profile.png": "/my-react-portfolio/static/media/profile.a9ff8c7f87dc66e9725b.png",
+    "static/media/tech-blog.png": "/my-react-portfolio/static/media/tech-blog.acc39fe88bd587e4f8ed.png",
+    "static/media/e-commerce.png": "/my-react-portfolio/static/media/e-commerce.fde393b393a271ee18a1.png",
+    "static/media/team-gen.png": "/my-react-portfolio/static/media/team-gen.9e5f6e04b6fec80a330a.png",
+    "index.html": "/my-react-portfolio/index.html",
+    "main.89d07740.css.map": "/my-react-portfolio/static/css/main.89d07740.css.map",
+    "main.28b259e4.js.map": "/my-react-portfolio/static/js/main.28b259e4.js.map",
+    "787.56d9acf9.chunk.js.map": "/my-react-portfolio/static/js/787.56d9acf9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.89d07740.css",
-    "static/js/main.5d5b77f4.js"
+    "static/js/main.28b259e4.js"
   ]
 }
